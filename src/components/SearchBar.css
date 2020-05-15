@@ -2,12 +2,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border: 1px solid black;
+    border: 2px solid black;
+    border-radius:25px;
 }
 
 .inputStyle{
     font-size: 1.5em;
-	padding: 3px;
+    padding: 3px;
     display: inline-block;
-    width: 30%;
+    width: 50%;
+    outline:0;
+    background:#FCFCFC;
+    border-radius:25px;
 }
